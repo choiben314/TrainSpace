@@ -4,7 +4,7 @@ A redesigned MTA Metro-North App that maximizes rider safety and social distanci
 Created for [MTA Metro-North](https://www.mtahackathon.org/) by:
 + [Ben Choi](https://benchoi.me)
 + [Abinaya Dinesh](https://medium.com/@abinayadinesh1)
-+ [Oscar Dumlao](oscardumlao.com)
++ [Oscar Dumlao](https://oscardumlao.com/)
 + [Andrew Fang](https://www.linkedin.com/in/afandrew/)
 + [Aren Kabarajian](https://www.arenkabarajian.com/)
 
